@@ -1,4 +1,3 @@
-js
 import { handle } from '../app.js';
 
 export default function handler(req, res) {
