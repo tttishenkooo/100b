@@ -1,0 +1,11 @@
+{
+  "name": "shkola-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Платформа для заданий: ученики сдают ответы, учитель проверяет. Vercel + Supabase, без зависимостей.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node standalone.js"
+  }
+}
